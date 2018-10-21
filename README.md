@@ -30,3 +30,11 @@
     * in Japanese
     * under construction
   
+# Advertisement
+ * Julia : A Fresh Ptogramming Language for Freshmen
+   * Presentation at Julia Tokyo #8, October 20, 2018
+   * https://juliatokyo.connpass.com/event/100780
+ * Presentation Material
+   * https://github.com/hsugawa8651/mseprogOne/blob/master/juliatokyo8-20181020-ver4-public.pdf
+   * https://speakerdeck.com/hsugawa8651/julia-a-fresh-programming-language-for-freshmen-in-japanese
+  
