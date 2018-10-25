@@ -11,8 +11,8 @@
 
 * Overview
   * Introductory exercises in computer programming
-
-* given in Japanese language
+  * using Julia v0.6.4
+  * given in Japanese language
 
 * Environment
   * Julia language; https://julialang.org/
