@@ -31,7 +31,7 @@
     * under construction
   
 # Advertisement
- * Julia : A Fresh Ptogramming Language for Freshmen
+ * Julia : A Fresh Programming Language for Freshmen
    * Presentation at Julia Tokyo #8, October 20, 2018
    * https://juliatokyo.connpass.com/event/100780
  * Presentation Material
