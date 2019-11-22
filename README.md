@@ -11,7 +11,8 @@
 
 * Overview
   * Introductory exercises in computer programming
-  * using Julia v0.6.4
+  * using Julia v1.1   (2019) 
+  * using Julia v0.6.4 (2018) 
   * given in Japanese language
 
 * Environment
@@ -22,9 +23,12 @@
 * Instructor: Hiroharu Sugawara, Ph.D., MSE, SD, TMU
 
 * Fall/Winter Semester, FY2018 (October 2018 -- January 2019)
+* Fall/Winter Semester, FY2019 (October 2019 -- January 2020)
 
 # Course materials
-  * Memorandom on Julia Language v0.6.4
+  * Memorandom on Julia Language v1.1   for 2019 class
+    * https://hsugawa8651.github.io/memojuliav11/  
+  * Memorandom on Julia Language v0.6.4 for 2018 class
     * https://hsugawa8651.github.io/memojuliav064/  
     * written by H. Sugawara
     * in Japanese
