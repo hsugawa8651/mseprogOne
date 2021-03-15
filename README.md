@@ -11,6 +11,7 @@
 
 * Overview
   * Introductory exercises in computer programming
+  * using Julia v1.3   (2020) 
   * using Julia v1.1   (2019) 
   * using Julia v0.6.4 (2018) 
   * given in Japanese language
@@ -24,8 +25,11 @@
 
 * Fall/Winter Semester, FY2018 (October 2018 -- January 2019)
 * Fall/Winter Semester, FY2019 (October 2019 -- January 2020)
+* Fall/Winter Semester, FY2020 (October 2020 -- January 2021)
 
 # Course materials
+  * memoJuliaClassJa  with Julia v1.3   for 2020 class
+    * https://hsugawa8651.github.io/memoJuliaClassJa.jl/
   * Memorandom on Julia Language v1.1   for 2019 class
     * https://hsugawa8651.github.io/memojuliav11/  
   * Memorandom on Julia Language v0.6.4 for 2018 class
