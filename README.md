@@ -11,6 +11,7 @@
 
 * Overview
   * Introductory exercises in computer programming
+  * using Julia v1.6   (2021), scheduled
   * using Julia v1.3   (2020) 
   * using Julia v1.1   (2019) 
   * using Julia v0.6.4 (2018) 
@@ -23,17 +24,18 @@
 
 * Instructor: Hiroharu Sugawara, Ph.D., MSE, SD, TMU
 
-* Fall/Winter Semester, FY2018 (October 2018 -- January 2019)
-* Fall/Winter Semester, FY2019 (October 2019 -- January 2020)
+* Fall/Winter Semester, FY2021 (October 2021 -- January 2022), scherduled
 * Fall/Winter Semester, FY2020 (October 2020 -- January 2021)
+* Fall/Winter Semester, FY2019 (October 2019 -- January 2020)
+* Fall/Winter Semester, FY2018 (October 2018 -- January 2019)
 
 # Course materials
   * memoJuliaClassJa  with Julia v1.3   for 2020 class
-    * https://hsugawa8651.github.io/memoJuliaClassJa.jl/
+    * https://hsugawa8651.github.io/memoJuliaClassJa.jl/v0.3.2/
   * Memorandom on Julia Language v1.1   for 2019 class
-    * https://hsugawa8651.github.io/memojuliav11/  
+    * https://hsugawa8651.github.io/memojuliav11/
   * Memorandom on Julia Language v0.6.4 for 2018 class
-    * https://hsugawa8651.github.io/memojuliav064/  
+    * https://hsugawa8651.github.io/memojuliav064/
     * written by H. Sugawara
     * in Japanese
     * under construction
